@@ -1,4 +1,4 @@
-package TPS;
+package TP2;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
